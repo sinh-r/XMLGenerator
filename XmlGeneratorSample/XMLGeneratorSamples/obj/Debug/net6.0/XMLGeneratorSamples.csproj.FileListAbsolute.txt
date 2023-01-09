@@ -1,0 +1,12 @@
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\bin\Debug\net6.0\XMLGeneratorSamples.deps.json
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\bin\Debug\net6.0\XMLGeneratorSamples.dll
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\bin\Debug\net6.0\ref\XMLGeneratorSamples.dll
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\bin\Debug\net6.0\XMLGeneratorSamples.pdb
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\obj\Debug\net6.0\XMLGeneratorSamples.csproj.AssemblyReference.cache
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\obj\Debug\net6.0\XMLGeneratorSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\obj\Debug\net6.0\XMLGeneratorSamples.AssemblyInfoInputs.cache
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\obj\Debug\net6.0\XMLGeneratorSamples.AssemblyInfo.cs
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\obj\Debug\net6.0\XMLGeneratorSamples.csproj.CoreCompileInputs.cache
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\obj\Debug\net6.0\XMLGeneratorSamples.dll
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\obj\Debug\net6.0\ref\XMLGeneratorSamples.dll
+D:\My Ideas\XMLGenerator\XmlGeneratorSample\XMLGeneratorSamples\obj\Debug\net6.0\XMLGeneratorSamples.pdb
