@@ -17,7 +17,7 @@ def AddXml(lines):
     while linePtr < len(lines):
         line = lines[linePtr].strip()
         if line.startswith('public'):
-            indentations = ' ' * (len(lines[linePtr]) - len(line) - 1)
+            indentations = '\t' * (len(lines[linePtr]) - len(line) - 1)
             words = lines[linePtr].split()
             if words[1] == classKeyword or words[2] == classKeyword:
                 if words[1] == classKeyword:
@@ -32,7 +32,7 @@ def AddXml(lines):
                 else:
                     name = words[2]
 
-            xmlComment = indentations.join([f'{indentations}///<summary>\n', f'/// {name}\n', '///</summary>\n'])
+            xmlComment = indentations.join([f'{indentations}/// <summary>\n', f'/// {name}\n', '/// </summary>\n'])
             lines.insert(linePtr, xmlComment)
             linePtr += 1
         linePtr += 1
