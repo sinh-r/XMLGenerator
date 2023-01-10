@@ -9,6 +9,8 @@ def ReadLinesToList(classPath):
 def AddXml(lines):
     classKeyword = 'class'
     staticKeyword = 'static'
+    virtualKeyword = 'virtual'
+    constantKeyword = 'const'
     name = ''
 
     linePtr = 0
@@ -25,7 +27,7 @@ def AddXml(lines):
             elif words[1].endswith(')') or words[2].endswith(')'):
                 pass
             else:
-                if words[1] == staticKeyword:
+                if words[1] in [staticKeyword, virtualKeyword, constantKeyword]:
                     name = words[3]
                 else:
                     name = words[2]
